@@ -1,0 +1,9 @@
+Sistema operativo: Administra los recursos del computador y permite ejecutar programas.
+
+Node.js: Ejecuta JavaScript en el servidor.
+
+Aplicacion server.js: Contiene elcodigo del servidor y las rutas.
+
+Puerto: Es el punto por donde el servidor recibe las  solicitudes.
+
+Logs: Registran la actividad ylos eventos del servidor.

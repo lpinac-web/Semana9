@@ -1,0 +1,4 @@
+Es importante que una plataforma funcione de manera estable y segura para brindar un buen servicio a los usuarios.
+Un servidor estable permite que la informacion este disponible cuando se necesite.
+Ademas, la seguridad  prottege los datos y evita accesos no autorizados.
+Durante esta actividad comprendi que los servidores son fundamentales para el funcionamiento de una aplicacion web.
